@@ -1,0 +1,10 @@
+{
+  "name": "encoding-standard",
+  "version": "0.0.0",
+  "description": "encodings standard",
+  "main": "encoding.js",
+  "authors": [
+    "Jxck"
+  ],
+  "license": "MIT"
+}
